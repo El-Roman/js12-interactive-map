@@ -1,0 +1,1 @@
+const map = L.map('map').setView([36.1716, 115.1391], 13)
